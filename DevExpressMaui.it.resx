@@ -70,7 +70,7 @@
     <value>PULISCI</value>
   </data>
   <data name="EditorStringId.FormPickerItem_ClearButtonText" xml:space="preserve">
-    <value>Oulisci</value>
+    <value>Pulisci</value>
   </data>
   <data name="GridStringId.Caption_SummaryAverage" xml:space="preserve">
     <value>MEDIA</value>
@@ -289,7 +289,7 @@
     <value>Quarto</value>
   </data>
   <data name="SchedulerStringId.Caption_WeekOfMonthLast" xml:space="preserve">
-    <value>Last</value>
+    <value>Ultimo</value>
   </data>
   <data name="SchedulerStringId.Caption_WeekOfMonthSecond" xml:space="preserve">
     <value>Secondo</value>
